@@ -5,11 +5,20 @@ class Solution:
 
         if n != m:
             return False
-        
-        i = sorted(s)
-        j = sorted(t)
 
-        if i == j:
-            return True
-        else:
-            return False
+        freqs = {}
+        freqt = {}
+
+        for i in s:
+            if i in freqs:
+                freqs[i] += 1
+            else:
+                freqs[i] = 1
+
+        for j in t:
+            if j in freqt:
+                freqt[j] += 1
+            else:
+                freqt[j] = 1
+
+        return freqs == freqt
