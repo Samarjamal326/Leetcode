@@ -10,6 +10,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Samarjamal326/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samarjamal326/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Samarjamal326/Leetcode/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Samarjamal326/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Samarjamal326/Leetcode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Samarjamal326/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -27,4 +29,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samarjamal326/Leetcode/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Samarjamal326/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
