@@ -3,22 +3,22 @@ class Solution:
         n = len(s)
         m = len(t)
 
-        if n != m:
+        if m != n:
             return False
 
+        freq = {}
         freqs = {}
-        freqt = {}
 
         for i in s:
-            if i in freqs:
-                freqs[i] += 1
+            if i in freq:
+                freq[i] += 1
             else:
-                freqs[i] = 1
-
+                freq[i] = 1
+        
         for j in t:
-            if j in freqt:
-                freqt[j] += 1
+            if j in freqs:
+                freqs[j] += 1
             else:
-                freqt[j] = 1
-
-        return freqs == freqt
+                freqs[j] = 1
+        
+        return freq == freqs
