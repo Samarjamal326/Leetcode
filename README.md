@@ -6,6 +6,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samarjamal326/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Samarjamal326/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarjamal326/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0001-two-sum](https://github.com/Samarjamal326/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Samarjamal326/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Samarjamal326/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarjamal326/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Samarjamal326/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Samarjamal326/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Samarjamal326/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarjamal326/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
