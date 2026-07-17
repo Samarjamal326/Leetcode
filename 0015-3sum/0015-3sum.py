@@ -6,7 +6,6 @@ class Solution:
 
         for i in range(n - 2):
 
-            # Skip duplicate fixed numbers
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
