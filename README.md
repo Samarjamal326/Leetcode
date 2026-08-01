@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Samarjamal326/Leetcode/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/Samarjamal326/Leetcode/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarjamal326/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Samarjamal326/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Samarjamal326/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/Samarjamal326/Leetcode/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -104,10 +106,19 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samarjamal326/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Samarjamal326/Leetcode/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samarjamal326/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Samarjamal326/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Samarjamal326/Leetcode/tree/master/0567-permutation-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Samarjamal326/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Samarjamal326/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
