@@ -1,24 +1,18 @@
+from collections import defaultdict
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        n = len(s)
-        m = len(t)
-
-        if m != n:
-            return False
-
-        freq = {}
-        freqs = {}
+        
+        freqs = defaultdict(int)
+        freqt = defaultdict(int)
 
         for i in s:
-            if i in freq:
-                freq[i] += 1
-            else:
-                freq[i] = 1
-        
+            freqs[i] += 1
+        print(freqs)
         for j in t:
-            if j in freqs:
-                freqs[j] += 1
-            else:
-                freqs[j] = 1
-        
-        return freq == freqs
+            freqt[j] += 1
+
+        if freqs == freqt:
+            return True
+        else:
+            return False
