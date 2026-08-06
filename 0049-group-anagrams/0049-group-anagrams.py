@@ -1,12 +1,17 @@
+from collections import defaultdict
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        group = {}
         
-        for word in strs:
-            key="".join(sorted(word))
-            if key not in group:
-                group[key] = []
+        if len(strs) <= 1:
+            return [strs]
 
-            group[key].append(word)
+        n = len(strs)
         
-        return list(group.values())
+        freq = defaultdict(list)
+
+        for word in strs:
+            key = "".join(sorted(word))
+            freq[key].append(word)
+
+        return list(freq.values())
