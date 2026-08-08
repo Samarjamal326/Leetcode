@@ -17,6 +17,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samarjamal326/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Samarjamal326/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Samarjamal326/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Samarjamal326/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samarjamal326/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Samarjamal326/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Samarjamal326/Leetcode/tree/master/0125-valid-palindrome) |
@@ -147,4 +148,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Samarjamal326/Leetcode/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Samarjamal326/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Samarjamal326/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
