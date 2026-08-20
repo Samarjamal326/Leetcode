@@ -56,6 +56,7 @@
 | [0011-container-with-most-water](https://github.com/Samarjamal326/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Samarjamal326/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Samarjamal326/Leetcode/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Samarjamal326/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Samarjamal326/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Samarjamal326/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Samarjamal326/Leetcode/tree/master/0075-sort-colors) |
@@ -113,6 +114,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Samarjamal326/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Samarjamal326/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samarjamal326/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Samarjamal326/Leetcode/tree/master/0162-find-peak-element) |
