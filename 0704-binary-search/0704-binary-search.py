@@ -4,9 +4,6 @@ class Solution:
         low = 0
         high = len(nums) - 1
 
-        if len(nums) < 2 and nums[0] == target:
-            return 0
-
         while low <= high:
 
             mid = (high + low) // 2
