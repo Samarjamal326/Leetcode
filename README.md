@@ -70,6 +70,7 @@
 | [0217-contains-duplicate](https://github.com/Samarjamal326/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Samarjamal326/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Samarjamal326/Leetcode/tree/master/0486-predict-the-winner) |
+| [0704-binary-search](https://github.com/Samarjamal326/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Samarjamal326/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
@@ -120,6 +121,7 @@
 | [0162-find-peak-element](https://github.com/Samarjamal326/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samarjamal326/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Samarjamal326/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Samarjamal326/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Samarjamal326/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
