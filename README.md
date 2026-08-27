@@ -68,6 +68,7 @@
 | [0169-majority-element](https://github.com/Samarjamal326/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Samarjamal326/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Samarjamal326/Leetcode/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/Samarjamal326/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Samarjamal326/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Samarjamal326/Leetcode/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/Samarjamal326/Leetcode/tree/master/0704-binary-search) |
@@ -176,9 +177,14 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Samarjamal326/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Samarjamal326/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Samarjamal326/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Samarjamal326/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Samarjamal326/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
