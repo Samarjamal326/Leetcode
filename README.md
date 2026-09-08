@@ -43,6 +43,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Samarjamal326/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Samarjamal326/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Samarjamal326/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/Samarjamal326/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Samarjamal326/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Samarjamal326/Leetcode/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Samarjamal326/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -73,6 +74,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Samarjamal326/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Samarjamal326/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Samarjamal326/Leetcode/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/Samarjamal326/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Samarjamal326/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Samarjamal326/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Samarjamal326/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -182,6 +184,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Samarjamal326/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Samarjamal326/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Samarjamal326/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Samarjamal326/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Samarjamal326/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Samarjamal326/Leetcode/tree/master/1480-running-sum-of-1d-array) |
